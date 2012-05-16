@@ -1,6 +1,8 @@
 var config = {
   tabData: {
     tab1: [
+     
+      'Shared config rules!!',
       'This app demonstrates how to use client-side packages to configure element positioning and present different UI themes.',
       'It also shows how to pull content from the cloud.',
       'Click through the other tabs for more information and tips.',
